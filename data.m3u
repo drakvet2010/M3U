@@ -29,3 +29,867 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KCCI.png" group-title="Local",1   -  KCCI - Des Moines/Ames - Iowa
+http://newson-vsms.trafficmanager.net/KCCI_1578634036_b697114efc24ce9296d74211b3d7dd384fbb68e78ae646590a8eca5dfc7d0a59.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KCRA.png" group-title="Local",2   -  KCRA - Sacramento/Stockton/Modesto - California
+http://newson-vsms.trafficmanager.net/KCRA_1578634036_1bd539e9aaae25f841ac419c6cb78cab0c156d7d9addbffa79c35af4ef19d9f8.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KETV.png" group-title="Local",3   -  KETV - Omaha - Nebraska
+http://newson-vsms.trafficmanager.net/KETV_1578634036_12d43d55c276ab3a0818fc6279e7fd22b50768e8658a86e0fb49dc1117cbfaec.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KHBS.png" group-title="Local",4   -  KHBS - Ft. Smith/Fayetteviile/Springdale/Rogers - Arkansas
+http://newson-vsms.trafficmanager.net/KHBS_1578634036_8d1ac28eb96978776a435f8803efe542542bab9ed67e1a1eaea0f75bda3cfd4c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KMBC.png" group-title="Local",5   -  KMBC - Kansas City - Missouri
+http://newson-vsms.trafficmanager.net/KMBC_1578634036_12e4292aa106696b3a5ba9b7ff4d79a9341b45c768e90bb402fae2068d2a91e5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KOAT.png" group-title="Local",6   -  KOAT - Albuquerque/Santa Fe - New Mexico
+http://newson-vsms.trafficmanager.net/KOAT_1578634036_4ff7677c1c4cbd8c5f75249951c9c719712a8f8e8877de747d82943d4d643b0c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KOCO.png" group-title="Local",7   -  KOCO - Oklahoma City - Oklahoma
+http://newson-vsms.trafficmanager.net/KOCO_1578634036_eea7efa78b763803979d7cfbbca9e6363b8375853c2243cc207f9e47d438aa88.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/KSBW.png" group-title="Local",8   -  KSBW - Monterey/Salinas - California
+http://newson-vsms.trafficmanager.net/KSBW_1578634036_3c03e9cd34e5c3ac903ef1dd6b10bc834d240e565f99f804c37b78a46654cfe0.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WAPT.png" group-title="Local",9   -  WAPT - Jackson - Mississippi
+http://newson-vsms.trafficmanager.net/WAPT_1578634036_5acd1dd7895563508d5e6fbd373b4775ed10b4279af8a967a3fd2039165a35ad.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WBAL.png" group-title="Local",10   -  WBAL - Baltimore - Maryland
+http://newson-vsms.trafficmanager.net/WBAL_1578634036_b05a96a2f3c0848692d7456b305dba7c6cd04fc3ff9f72c9b12f584dd6604a79.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/hearst/WCVB.png" group-title="Local",11   -  WCVB - Boston - Massachusetts
+http://newson-vsms.trafficmanager.net/WCVB_1578634036_7c8d2889d65941a43f3e7527bb8d594915c1aed964cfac21ee0083c1f5124dbd.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WDSU.png" group-title="Local",12   -  WDSU - New Orleans - Louisiana
+http://newson-vsms.trafficmanager.net/WDSU_1578634036_1f147358bdda5d18f8ffb78f3a1a91a0010efb01711af531450343b4459bba66.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WESH.png" group-title="Local",13   -  WESH - Orlando/Daytona Beach/Melborne - Florida
+http://newson-vsms.trafficmanager.net/WESH_1578634036_1b6477715da500de3e308729c5470af8910fde96e4d2d02f49cc625cc04f777d.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WGAL.png" group-title="Local",14   -  WGAL - Harrisburg/Lancaster/Lebanon/York - Pennsylvania
+http://newson-vsms.trafficmanager.net/WGAL_1578634036_a6884e4508cd92a1b940707d6184dcbd8bbf70d069fc8575192e3c6473953e37.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WISN.png" group-title="Local",15   -  WISN - Milwaukee - Wisconsin
+http://newson-vsms.trafficmanager.net/WISN_1578634036_fbf4b3deb9a3811e1322798073abba5b75310837dfc9143d17587256077f0937.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WLKY.png" group-title="Local",16   -  WLKY - Louisville - Kentucky
+http://newson-vsms.trafficmanager.net/WLKY_1578634036_45d813cec4601a2ec180b5234f7c7ac1e098edfa3132f896fbc408be6aca4aea.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WLWT.png" group-title="Local",17   -  WLWT - Cincinnati - Ohio
+http://newson-vsms.trafficmanager.net/WLWT_1578634036_e2fa3739fe81f4c8563cd25f09f682b80835ea11e7272a67c134b31baf253b60.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WMTW.png" group-title="Local",18   -  WMTW - Portland/Auburn - Maine
+http://newson-vsms.trafficmanager.net/WMTW_1578634036_1a8b6cbe6de43ad38c70930950ef4ed50c9a588b011520db4db10c271219be3c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WMUR.png" group-title="Local",19   -  WMUR - Manchester - New Hampshire
+http://newson-vsms.trafficmanager.net/WMUR_1578634036_5ea32045ed5971c296b189be51cffdc42518dc6fd52d472e135962399d89abb1.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WPBF.png" group-title="Local",20   -  WPBF - West Palm Beach/Ft. Pierce - Florida
+http://newson-vsms.trafficmanager.net/WPBF_1578634036_e92d5f1d4e7f7decfeeef2d63d1edd2e4ab07e4bd2bfff0c4b3b8a0d7ece4329.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WPTZ.png" group-title="Local",21   -  WPTZ - Burlington - Vermont
+http://newson-vsms.trafficmanager.net/WPTZ_1578634036_6e36a1c728dbd8ff7865b3e2c20e46068a07bdfd8c479782f26ca6cae8996dbb.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WTAE.png" group-title="Local",22   -  WTAE - Pittsburgh - Pennsylvania
+http://newson-vsms.trafficmanager.net/WTAE_1578634036_a934a16c3b51228f3182880fa2086dffb33c122b93b59a41363d3c08c907bffb.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WXII.png" group-title="Local",23   -  WXII - Greensboro/High Point/Winston Salem - North Carolina
+http://newson-vsms.trafficmanager.net/WXII_1578634036_383fe2cb2d059e7885442e0e1960f5475d13fc8765e9e0484e8d2d5c5f916868.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WYFF.png" group-title="Local",24   -  WYFF - Greenville/Spartanburg - South Carolina
+http://newson-vsms.trafficmanager.net/WYFF_1578634036_7bb99102b236876415aea019c7657b7932d55d83b57e378b48c5318a914f5043.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KAIT.png" group-title="Local",25   -  KAIT - Jonesboro - Arkansas
+http://newson-vsms.trafficmanager.net/KAIT_1578634036_5e6d35ee51032beaa99563f8cb1f4d9c611518d875b8d261a67b4dd3ea0d5acf.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WAVE.png" group-title="Local",26   -  WAVE - Louisville - Kentucky
+http://newson-vsms.trafficmanager.net/WAVE_1578634036_d875ab84c170e6bb8a74da4eda75598ebd4c3c1e73a43dc6bb3733bc3aeb5218.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KHNL_KGMB.png" group-title="Local",27   -  KHNL/KGMB - Honolulu - Hawaii
+http://newson-vsms.trafficmanager.net/KHNL_1578634036_16abc832e3e05cf114823fe3d33f3d1224ecd85c021d9ebdfed6f0a7a0bbddf5.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WSFA.png" group-title="Local",28   -  WSFA - Montgomery - Alabama
+http://newson-vsms.trafficmanager.net/WSFA_1578634036_9e5edae2b6b1d0df08b20edb8574287e65228672e39f399764cbb046189dddd7.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WIS.png" group-title="Local",29   -  WIS - Columbia - South Carolina
+http://newson-vsms.trafficmanager.net/WIS_1578634036_934124c6ad718a58436ed8f34a46312730689614ba0bffb21f4d6196e9f642c4.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",30   -  WPVI - Philadelphia - Pennsylvania
+https://content.uplynk.com/d7d7d7b9e38a4d70baa5a666cbe9efad.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WMC.png" group-title="Local",31   -  WMC- Memphis - Tennessee
+http://newson-vsms.trafficmanager.net/WMC_1578634036_cc0df8ecb102481fb2b50097fbabd9e2025357a41766c4a178b004a10520c3a8.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WVUE.png" group-title="Local",32   -  WVUE - New Orleans - Louisiana
+http://newson-vsms.trafficmanager.net/WVUE_1578634036_614e92cbd70c6233e654c5d3cfd5d6a309a271c95c235a6bd4e3a60a26c2f560.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WBTV.png" group-title="Local",33   -  WBTV - Charlotte - North Carolina
+http://newson-vsms.trafficmanager.net/WBTV_1578634036_8cc83334af1f396918986e00a9fc1a43031fe3d392fea8fae9465ab71a7f9ed2.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WOIO.png" group-title="Local",34   -  WOIO - Cleveland/Akron - Ohio
+http://newson-vsms.trafficmanager.net/WOIO_1578634036_0203615080cbf33f7b128e91b976ade28b637029b6fa0749ba6d945e04efdfc1.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WWBT.png" group-title="Local",35   -  WWBT - Richmond/Petersburg - Virginia
+http://newson-vsms.trafficmanager.net/WWBT_1578634036_ba63a68fa19fd18d4de5c38966bf68e209017d3295bd56394428f4027b60614e.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",36   -  KFSN - Fresno/Visalia - California
+https://content.uplynk.com/235405ec87194a15a17a14ad95a524a6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",37   -  KABC - Los Angeles - California
+https://content.uplynk.com/18185f39a9b4417f9b4165cf7aff55af.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",38   -  KGO - San Francisco/Oakland/San Jose - California
+https://content.uplynk.com/1bcef9b630a84f69a332641a287bc6e2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",39   -  KTRK - Houston - Texas
+https://content.uplynk.com/85459c6233bd4962bd2ae98cc191af47.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",40   -  WABC - New York City - New York
+https://content.uplynk.com/78fce4e77ff7427888fb3fd8efa0f12f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",41   -  WLS - Chicago - Illinois
+https://content.uplynk.com/8adeea4ce346484b9f3b125981f11d6c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",42   -  WTVD - Raleigh/Durham - North Carolina
+https://content.uplynk.com/a8994fff650742d7915c1ef9567a1a4b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KCBD.png" group-title="Local",43   -  KCBD - Lubbock - Texas
+http://newson-vsms.trafficmanager.net/KCBD_1578634036_a7102048c2ecde3e887952cc55ece41f163b54933392a46b8d26aaa40faf2336.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KFVS.png" group-title="Local",44   -  KFVS - Cape Girardeau - Missouri
+http://newson-vsms.trafficmanager.net/KFVS_1578634036_869b9aab63f1947d90f13abec6563ed5331a9e9e3d7227b7a0de99131057953d.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KLTV.png" group-title="Local",45   -  KLTV - Tyler/Longview - Texas
+http://newson-vsms.trafficmanager.net/KLTV_1578634036_2875a5273ea49f891e5b14b29b1c0538f79335ca49790a7b733bb15a6726b866.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KOLD.png" group-title="Local",46   -  KOLD -Tucson - Arizona
+http://newson-vsms.trafficmanager.net/KOLD_1578634036_e211476341af772c5164893e11163766a79f9374d4bf274860b031af23be824b.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KPLC.png" group-title="Local",47   -  KPLC - Lake Charles - Louisiana
+http://newson-vsms.trafficmanager.net/KPLC_1578634036_bcb9b63da45fe267e6275532ef7bc4ab31c9215815578fbec131a4afb53782ff.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KSLA.png" group-title="Local",48   -  KSLA - Shreveport - Louisiana
+http://newson-vsms.trafficmanager.net/KSLA_1578634036_d18c1d8e591b5f5ad6678b2dcd50c042c1682a42d1e83f60ff68511a89aa107b.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KTRE.png" group-title="Local",49   -  KTRE - Tyler/Longview - Texas
+http://newson-vsms.trafficmanager.net/KTRE_1578634036_eb8b52e561e0876be916eb7b034a479303197d3aca03f7b47761d016c28ae89e.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WAFB.png" group-title="Local",50   -  WAFB - Baton Rouge - Louisiana
+http://newson-vsms.trafficmanager.net/WAFB_1578634036_51bb38a7d54f33c7e79b23e2026464042b2102544d72e0b9383a5b2e07eae501.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WAFF.png" group-title="Local",51   -  WAFF - Huntsville/Decatur/Florence - Alabama
+http://newson-vsms.trafficmanager.net/WAFF_1578634036_074cda9476490352cb2c6eb83469468002a0fc08c2f515858ef100e5fd2b967a.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WALB.png" group-title="Local",52   -  WALB - Albany - Georgia
+http://newson-vsms.trafficmanager.net/WALB_1578634036_c502b40b3822d2be70ce6595741b489990398a87a128879d5fddfc60903f0fb8.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WBRC.png" group-title="Local",53   -  WBRC - Birmingham/Anniston/Tuscaloosa - Alabama
+http://newson-vsms.trafficmanager.net/WBRC_1578634036_07bbba3d197b2bfe55d306bde4542a6da79a9a572c56d68c1a2b839d06738c5b.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WCSC.png" group-title="Local",54   -  WCSC - Charleston - South Carolina
+http://newson-vsms.trafficmanager.net/WCSC_1578634036_c07f3d09df0673cbeb31a2d4b3ad62ca56d9d3bad64236e3650b646e4a248d31.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WDAM.png" group-title="Local",55   -  WDAM - Hattiesburg/Laurel - Mississippi
+http://newson-vsms.trafficmanager.net/WDAM_1578634036_1a3862b011fada491ebd5a00ec641ea875595adf8d9ec40ca0637b15c6b86381.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WECT.png" group-title="Local",56   -  WECT - Wilmington - North Carolina
+http://newson-vsms.trafficmanager.net/WECT_1578634036_a7900bb69b918222926e904ace6b24d5585dd292280883e9bb95e0568e2212e0.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WFIE.png" group-title="Local",57   -  WFIE - Evansville - Indiana
+http://newson-vsms.trafficmanager.net/WFIE_1578634036_b5d5c02e2340d4e32a2b6e71eae7d3d00709e32856156ff05dc3a6a8cd7db79c.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WLBT.png" group-title="Local",58   -  WLBT - Jackson - Mississippi
+http://newson-vsms.trafficmanager.net/WLBT_1578634036_a42d1da8eb51cf03ed25b3a1ca9657aa4715ae33dafd012ec2778c8d9c93d455.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WLOX.png" group-title="Local",59   -  WLOX - Biloxi/Gulfport - Mississippi
+http://newson-vsms.trafficmanager.net/WLOX_1578634036_6d17d29015f4906c22abbfd5030bab4dddd922c0bae7d79296b5391b81e24c12.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WMBF.png" group-title="Local",60   -  WMBF - Myrtle Beach/Florence - South Carolina
+http://newson-vsms.trafficmanager.net/WMBF_1578634036_d0d4478fb8000bda26dd448a95101baeefba505c8eb91ea8508f966bc17e7bfa.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WTOC.png" group-title="Local",61   -  WTOC - Savannah - Georgia
+http://newson-vsms.trafficmanager.net/WTOC_1578634036_ba39c06890299d65c881f060e26f618e52ccca21d2638c87cd1bde654e7a3f57.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WTVM.png" group-title="Local",62   -  WTVM - Columbus - Georgia
+http://newson-vsms.trafficmanager.net/WTVM_1578634036_eb7cd0848f94c99380a7acc5fb0ca85a049826f82d0e8377635b29810acacf2d.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/WXIX.png" group-title="Local",63   -  WXIX - Cincinnati - Ohio
+http://newson-vsms.trafficmanager.net/WXIX_1578634036_400eadc3d11e07c7b5e943a325d765fd33583118e6290cdef6b028e3dc86aca6.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WFXT.png" group-title="Local",64   -  WFXT - Boston - Massachusetts
+http://newson-vsms.trafficmanager.net/WFXT_1578634036_e239201bec5ffb1b8ad07b87d838a5b3ebb314e5df16f35be7b5202cc0cbfb0f.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WSB.png" group-title="Local",65   -  WSB - Atlanta - Georgia
+http://newson-vsms.trafficmanager.net/WSB_1578634036_368df6c2297285caa064b6d6b04306cd06870c7e05305dec5854ab9dab906a44.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/KIRO.png" group-title="Local",66   -  KIRO - Seattle/Tacoma - Washington
+http://newson-vsms.trafficmanager.net/KIRO_1578634036_20021069d7061f58c49358a1ff2f47b26dbedaa0f7b3329c8974f96e5a90bdbe.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WFTV.png" group-title="Local",67   -  WFTV - Orlando/Daytona Beach/Melborne - Florida
+http://newson-vsms.trafficmanager.net/WFTV_1578634036_79416a549cadaaf18d93d1ec2fb492ef2679fd26918caea4247ab9dc3b4d74a9.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WPXI.png" group-title="Local",68   -  WPXI - Pittsburgh - Pennsylvania
+http://newson-vsms.trafficmanager.net/WPXI_1578634036_d900cd6e5a2e65c1064ba39a81b1bcfd837a1fb911d04fd8773f147e988bf15d.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WSOC.png" group-title="Local",69   -  WSOC - Charlotte - North Carolina
+http://newson-vsms.trafficmanager.net/WSOC_1578634036_0765a44566f9975ce884c64f5b82b6778c59d7a9fbae25da6e4ea61da168fe4e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WHBQ.png" group-title="Local",70   -  WHBQ - Memphis - Tennessee
+http://newson-vsms.trafficmanager.net/WHBQ_1578634036_c20333d65b278a75ac7a75ae4aecc241efb96d62c2d7c1dda5f2f7913cbbd1af.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WJAX.png" group-title="Local",71   -  WJAX - Jacksonville - Florida
+http://newson-vsms.trafficmanager.net/WJAX_1578634036_7a4fac05764de7ac6c3a1eb0e3e1b10ea71a98b4e5a4ab5e53dcbe10f01883e2.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/KOKI.png" group-title="Local",72   -  KOKI - Tulsa - Oklahoma
+http://newson-vsms.trafficmanager.net/KOKI_1578634036_bd4cc2b161fddb81bed9745de835da7c36ab761c89b4087dfdcd25d61ab5f4f5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WHIO.png" group-title="Local",73   -  WHIO - Dayton - Ohio
+http://newson-vsms.trafficmanager.net/WHIO_1578634036_b7522cb4edf9000e2a0f95212c0b54af6afd84eef039b6daa19c9ed38752fe8e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/cox/WFOX.png" group-title="Local",74   -  WFOX - Jacksonville - Florida
+http://newson-vsms.trafficmanager.net/WFOX_1578634036_2485171c6b1aad9cc3a6f29a3000b949e4169a63f1dd074d0c2e0f4e5c1b5719.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/graham/WSLS.png" group-title="Local",75   -  WSLS - Roanoke/Lynchburg - Virginia
+http://newson-vsms.trafficmanager.net/WSLS_1578634036_c15191e9731daf7eadc8a21fb0de2db19145b47edc75f2ff70d9170dc3da6451.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WJCL.png" group-title="Local",76   -  WJCL - Savannah - Georgia
+http://newson-vsms.trafficmanager.net/WJCL_1578634036_d0ec282bc08563e1917278404b1a569add31db0fc8f7a69db53f2b08bb8d15a0.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hearst/WVTM.png" group-title="Local",77   -  WVTM - Birmingham/Anniston/Tuscaloosa - Alabama
+http://newson-vsms.trafficmanager.net/WVTM_1578634036_b06f8bc87c69babd9b4241713b0a6899e8eef10f07659dc066b22cc37899a5b7.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WUSA.png" group-title="Local",78   -  WUSA - Washington, D.C. - District of Columbia
+http://newson-vsms.trafficmanager.net/WUSA_1578634036_7c45bd06b4228ccb1d5b788d8f326cc11d7808121de566bb731845e3240eeeed.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hubbard/KSTP.png" group-title="Local",79   -  KSTP - Minneapolis/St. Paul - Minnesota
+http://newson-vsms.trafficmanager.net/KSTP_1578634036_ef803eb81638d5142372c4e4c59bb67f40c9a3c3122842f02ca525926c776ae4.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hubbard/KAAL.png" group-title="Local",80   -  KAAL - Rochester/Austin - Minnesota
+http://newson-vsms.trafficmanager.net/KAAL_1578634036_004c67a43b41ed8de89aedb4dc78f68ee717214096b3c0515fea3e349647f60f.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hubbard/KOB.png" group-title="Local",81   -  KOB - Albuquerque/Santa Fe - New Mexico
+http://newson-vsms.trafficmanager.net/KOB_1578634036_c611994085099db99015d5fe4635e5836e1f59fcf5ab5674d878efa5cf93a5d2.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hubbard/WDIO.png" group-title="Local",82   -  WDIO - Duluth - Minnesota
+http://newson-vsms.trafficmanager.net/WDIO_1578634036_2e4c715bcd15b88bf1c4e63789f9ef5f549036c4ebc041fef444b2429a704685.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hubbard/WHEC.png" group-title="Local",83   -  WHEC - Rochester - New York
+http://newson-vsms.trafficmanager.net/WHEC_1578634036_7226f562ddb75ad87fe5d665f8260de5938d09aa2c3666a95a109fee94047afb.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/hubbard/WNYT.png" group-title="Local",84   -  WNYT - Albany/Schenectady/Troy - New York
+http://newson-vsms.trafficmanager.net/WNYT_1578634036_13de3ad943144c4fe552d8d0e4923ba316667b3e5868552ecb92be4d38c4d067.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/graham/KPRC.png" group-title="Local",85   -  KPRC - Houston - Texas
+http://newson-vsms.trafficmanager.net/KPRC_1578634036_05991def819fdfa77db18ab8d7c88448270125c78b10ba7a731543b1941c3d5a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/graham/WDIV.png" group-title="Local",86   -  WDIV - Detroit - Michigan
+http://newson-vsms.trafficmanager.net/WDIV_1578634036_51ad32ef1c3aaeed5b8894b1d46714281d3aaef9ee4581450995d2e3dc60608c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/graham/WKMG.png" group-title="Local",87   -  WKMG - Orlando/Daytona Beach/Melborne - Florida
+http://newson-vsms.trafficmanager.net/WKMG_1578634036_4a35075babdd36970fdfe0214a89dcc51c75b5a620af89339fb0dcc2475e3ec3.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/graham/KSAT.png" group-title="Local",88   -  KSAT - San Antonio - Texas
+http://newson-vsms.trafficmanager.net/KSAT_1578634036_be42655e618096b056c18912568d485b125e8197231a9b6154acfd8bcb8fdb57.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/graham/WJXT.png" group-title="Local",89   -  WJXT - Jacksonville - Florida
+http://newson-vsms.trafficmanager.net/WJXT_1578634036_ca8a7494f84c0ec4f2f50e42e49a2bbca11cf50615666b1c56d3852cb828bfda.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WFAA.png" group-title="Local",90   -  WFAA - Dallas - Texas
+http://newson-vsms.trafficmanager.net/WFAA_1578634036_9236543f5d5bf64fa754dfaf7c7fd5a8534f347c91e049dc52d08d13ba358c3a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/berkshire/WPLG.png" group-title="Local",91   -  WPLG - Miami/Ft. Lauderdale - Florida
+http://newson-vsms.trafficmanager.net/WPLG_1578634036_77edad4df2cb4251b76614084c8523490e6815bc4dea404fa9f104b2f855bd2f.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KOMO.png" group-title="Local",92   -  KOMO - Seattle/Tacoma - Washington
+http://newson-vsms.trafficmanager.net/KOMO_1578634036_baf913f962b3f7dbfa897b094f762174243521f55c889ff55a87183a69c5fc3d.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WKRC.png" group-title="Local",93   -  WKRC - Cincinnati - Ohio
+http://newson-vsms.trafficmanager.net/WKRC_1578634036_ee1e1411f2fc80d6a45e86178ccfb5c5c75d6384a1ce13abe1cfba38d26e1ba2.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WBFF.png" group-title="Local",94   -  WBFF - Baltimore - Maryland
+http://newson-vsms.trafficmanager.net/WBFF_1578634036_0b8c308738dd03a5b7432345cfdf49c724518e011b70abcb1fb2421d02b50e43.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WSYX.png" group-title="Local",95   -  WSYX - Columbus - Ohio
+http://newson-vsms.trafficmanager.net/WSYX_1578634036_47b3509dc82c101718eeda816e7fbc6c302a00cf54b59264fee0c953dc62597e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KFDA.png" group-title="Local",96   -  KFDA - Amarillo - Texas
+http://newson-vsms.trafficmanager.net/KFDA_1578634036_3a37ff7402e4c07a50b957e38421f887f65572dd075065afd942029a706d6c7d.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/raycom/KSWO.png" group-title="Local",97   -  KSWO - Lawton - Oklahoma
+http://newson-vsms.trafficmanager.net/KSWO_1578634036_6c36189c5f63655194af25d52e40c5e2748ab5ffc014e8e0d9e64a30d4960ea6.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KUTV.png" group-title="Local",98   -  KUTV - Salt Lake City - Utah
+http://newson-vsms.trafficmanager.net/KUTV_1578634036_45ccccbe00c58c7d3c3cb522b727db79d6445b3f4a12004f66ac716e7f2d1469.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WOAI.png" group-title="Local",99   -  WOAI - San Antonio - Texas
+http://newson-vsms.trafficmanager.net/WOAI_1578634036_007feb3874142a0fee3933e29c7f26cefd7a4b3ac7a1023378f4ab9a2c43af1c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KEYE.png" group-title="Local",100   -  CBS Austin - Texas
+http://newson-vsms.trafficmanager.net/KEYE_1578634036_cac79cad497e042db8b73bc84cd39794bd098a642259ab806491c127b060a9e1.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WLOS.png" group-title="Local",101   -  WLOS - Asheville - North Carolina
+http://newson-vsms.trafficmanager.net/WLOS_1578634036_5d442e6379b81b063697cb4fcb89405357961dc7070ff690cfe7d2cfffde0d46.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KABB.png" group-title="Local",102   -  KABB - San Antonio - Texas
+http://newson-vsms.trafficmanager.net/KABB_1578634036_2f78a676b4ad201a5d0840427309ba2e4c0a31e2063e7c4d8f8b10547e0f32bc.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WPEC.png" group-title="Local",103   -  WPEC - West Palm Beach/Ft. Pierce - Florida
+http://newson-vsms.trafficmanager.net/WPEC_1578634036_f56ab6c67fac1d493f6c574964e5a616ed699417a528ddf1fac08be549ecb6fc.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WZTV.png" group-title="Local",104   -  WZTV - Nashville - Tennessee
+http://newson-vsms.trafficmanager.net/WZTV_1578634036_c23d18780d0e17440fd3f85370763b83d3496a16fc56a92e0e87d50113aa815f.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WTTE.png" group-title="Local",105   -  WTTE - Columbus - Ohio
+http://newson-vsms.trafficmanager.net/WTTE_1578634036_a6f01dcd0f6c6127d73314e6a044c8f02a473e18b472230a58a41f155fb10af7.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/KTVK.png" group-title="Local",106   -  KTVK 3TV - Phoenix - Arizona
+http://newson-vsms.trafficmanager.net/KTVK_1578634036_b01f860ec1cd47f4e357841dd9e5e66a069bd06479f8da93574be179d2dc8085.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/KMOV.png" group-title="Local",107   -  KMOV - St. Louis - Missouri
+http://newson-vsms.trafficmanager.net/KMOV_1578634036_9fdeb44adaa67fb4ad0ce6f71a0b396725ba7f82eff83fd1a78d7606d037e02c.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/forum/WDAY.png" group-title="Local",108   -  WDAY - Fargo - North Dakota
+http://newson-vsms.trafficmanager.net/WDAY_1578634036_1b1031ca2c193be5b7ac5da9c5c3d7543ea317861d94e63e4b63794c720f2a83.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KSNV.png" group-title="Local",109   -  KSNV - Las Vegas - Nevada
+http://newson-vsms.trafficmanager.net/KSNV_1578634036_296adf50d1b973a99c0a0275cabcc35b756c829119f60a2ae261918de395b860.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WWMT.png" group-title="Local",110   -  WWMT - Grand Rapids/Kalamazoo/Battle Creek - Michigan
+http://newson-vsms.trafficmanager.net/WWMT_1578634036_4406185026ab80d50e6e7a35ae8a22654dc5d56403bbf3f071120f4e632e1177.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KOKH.png" group-title="Local",111   -  KOKH - Oklahoma City - Oklahoma
+http://newson-vsms.trafficmanager.net/KOKH_1578634036_69b96e55222e6291507681715c55839c2eec152f260dc24e735587247366141b.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WHP.png" group-title="Local",112   -  WHP - Harrisburg/Lancaster/Lebanon/York - Pennsylvania
+http://newson-vsms.trafficmanager.net/WHP_1578634036_6b0fede0e73a2511399a64e56e2b19b1a35a2528c217333cb866712ae5613911.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WBMA.png" group-title="Local",113   -  WBMA - Birmingham/Anniston/Tuscaloosa - Alabama
+http://newson-vsms.trafficmanager.net/WBMA_1578634036_f853a7b53153296becf479e56e4d4623a902d8ca63206e6d24dd5a85a4d959de.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WJAR.png" group-title="Local",114   -  WJAR - Providence - Rhode Island
+http://newson-vsms.trafficmanager.net/WJAR_1578634036_c6c64d5ef2203afb7a299fef01f8ffc7965f9c4707f3143742c351b4fae909d1.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KMPH.png" group-title="Local",115   -  KMPH - Fresno/Visalia - California
+http://newson-vsms.trafficmanager.net/KMPH_1578634036_5146ad3aabfa27ecbbcac17fc8010300e960cc3345030f4dc08ef5278ad58277.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KATV.png" group-title="Local",116   -  KATV - Little Rock/Pine Bluff - Arkansas
+http://newson-vsms.trafficmanager.net/KATV_1578634036_c672efe55f4141928957a7a05c545f0ac935aa0d3a04c7bc72faf4746a8079c7.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WEAR.png" group-title="Local",117   -  WEAR - Mobile/Pensacola - Florida
+http://newson-vsms.trafficmanager.net/WEAR_1578634036_c79669eceac0ed9f245af6d0d435d41aceba2dbaa1199ab45c7b48caec1002d8.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WPMI.png" group-title="Local",118   -  WPMI - Mobile/Pensacola - Alabama
+http://newson-vsms.trafficmanager.net/WPMI_1578634036_613f90069adbb06bcbd6f427217c756c1bd143935c8e1f4c8d974e624aaa0a83.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WRGB.png" group-title="Local",119   -  WRGB - Albany/Schenectady/Troy - New York
+http://newson-vsms.trafficmanager.net/WRGB_1578634036_ca4b6d80157f029e28ff2718e7f9d8fe9c0fae1e66c3227963aef3d05bfba2f6.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KGBT.png" group-title="Local",120   -  KGBT - Harlingen/Weslaco/Brownsville/McAllen - Texas
+http://newson-vsms.trafficmanager.net/KGBT_1578634036_0dc32e4377f990d42f70d85a1780cf582c60312417a53aeee2c87b5b81f2da32.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WTVC.png" group-title="Local",121   -  WTVC - Chattanooga - Tennessee
+http://newson-vsms.trafficmanager.net/WTVC_1578634036_ec39bc736e60726aedaae126ecace6cc7ec5085f02d56690ff814457ef845d3e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WSTM.png" group-title="Local",122   -  WSTM - Syracuse - New York
+http://newson-vsms.trafficmanager.net/WSTM_1578634036_b2a0a742ecc41e1d9887f60dc0bb5818386e25d2ada8dda0245d1b331d9343ed.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KGAN.png" group-title="Local",123   -  KGAN - Cedar Rapids - Iowa
+http://newson-vsms.trafficmanager.net/KGAN_1578634036_8fd22fea409bb87240b7673ac24801146f396daad27111b692b52ed0cec4afe7.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KBAK.png" group-title="Local",124   -  KBAK - Bakersfield - California
+http://newson-vsms.trafficmanager.net/KBAK_1578634036_8bf4a4692287975bff26df7a8c269a96ce7b76da06f03830f5b42c25cccc5ee8.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WJLA.png" group-title="Local",125   -  WJLA - Washington D.C - District of Columbia
+http://newson-vsms.trafficmanager.net/WJLA_1578634036_8fd45296596b8e7d89157ac6420fdab1c24d089278057a4d828042d54dca8452.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KDBC.png" group-title="Local",126   -  KDBC - El Paso - Texas
+http://newson-vsms.trafficmanager.net/KDBC_1578634036_939397d8b3426d26e948e8456e9599d4e0eb40097a4671ab61db7525eaee604c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KFOX.png" group-title="Local",127   -  KFOX - El Paso - Texas
+http://newson-vsms.trafficmanager.net/KFOX_1578634036_973d51029cecf194ba0d5aea853b65b1efd67008ba97d00aa2fce0a4e0e54bc0.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KTUL.png" group-title="Local",128   -  KTUL - Tulsa - Oklahoma
+http://newson-vsms.trafficmanager.net/KTUL_1578634036_551e279699064bd27c8dca56e5d09e78febb6890143988bd5323d0f9a284835e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WKEF.png" group-title="Local",129   -  WKEF - Dayton - Ohio
+http://newson-vsms.trafficmanager.net/WKEF_1578634036_dbdf33497c83858640d79821af7ac9cc2480dd7cbcb599d75d5418a3c9e5b821.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WRGT.png" group-title="Local",130   -  WRGT - Dayton - Ohio
+http://newson-vsms.trafficmanager.net/WRGT_1578634036_05f74c7eb655d26dfe9da1a3483c269199a5171bb766f22c121d1e08b0cacb6f.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WCHS.png" group-title="Local",131   -  WCHS - Charleston - West Virginia
+http://newson-vsms.trafficmanager.net/WCHS_1578634036_1f56072d18950f20f6de71afe1e7a203a3ced3fd2c41b1543cfcce14f8deead9.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WVAH.png" group-title="Local",132   -  WVAH - Charleston - West Virginia
+http://newson-vsms.trafficmanager.net/WVAH_1578634036_f19674d3d056d577aa8427d6e353db3f93ddc3db2574f39cd059b9ccc4836dd5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WLUK.png" group-title="Local",133   -  WLUK - Green Bay/Appleton - Wisconsin
+http://newson-vsms.trafficmanager.net/WLUK_1578634036_f0971c987a5c5c39502bbe3ecac4f5114e0237401f15fa46d6f35020d654c7db.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WSET.png" group-title="Local",134   -  WSET - Roanoke/Lynchburg - Virginia
+http://newson-vsms.trafficmanager.net/WSET_1578634036_386bf253a867f12b38d44fa4ab5fae27e2588d6384c610c976d97ae0c51d3b18.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KPTM.png" group-title="Local",135   -  KPTM - Omaha - Nebraska
+http://newson-vsms.trafficmanager.net/KPTM_1578634036_f5d1ee47fdfa4c6e312809a99776ca4fae32183d77189b772582c3431999ea6c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WHAM.png" group-title="Local",136   -  WHAM - Rochester - New York
+http://newson-vsms.trafficmanager.net/WHAM_1578634036_c117fe18e31674c4c3d298b04500b053220e82136f726d76dee950b1de462447.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WICS.png" group-title="Local",137   -  WICS - Springfield - Illinois
+http://newson-vsms.trafficmanager.net/WICS_1578634036_1971d998e8e4157f318061ca41f19bdcd8ae85b9b16a6ce678ad08a7856a7457.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WPDE.png" group-title="Local",138   -  WPDE - Myrtle Beach/Florence - South Carolina
+http://newson-vsms.trafficmanager.net/WPDE_1578634036_212981430f6d0a33854889bb5561dcb0dfa579bf9911d65b8fd2b2c74d63fd18.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WJAC.png" group-title="Local",139   -  WJAC - Johnstown - Pennsylvania
+http://newson-vsms.trafficmanager.net/WJAC_1578634036_5fd02405a9cf588739bc171a1d3e8da2b0ac662b3a83d80ce046de97b6baaffa.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WGXA.png" group-title="Local",140   -  WGXA - Macon - Georgia
+http://newson-vsms.trafficmanager.net/WGXA_1578634036_6f487539ba3bf8c0f236c61891b9eb0dd6634223b3313212e8b585c65ff92fa1.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WGME.png" group-title="Local",141   -  WGME - Portland/Auburn - Maine
+http://newson-vsms.trafficmanager.net/WGME_1578634036_6fa36a70b662b63f23826a9d5ce9bb3e8d7339aea6391b3fe09a6dc400124a0c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/dispatch/WTHR.png" group-title="Local",142   -  WTHR - Indianapolis - Indiana
+http://newson-vsms.trafficmanager.net/WTHR_1578634036_ce3a5cb1a653506f06b15915378ad8dec3fb8ed2f5e5f75978ac4cc6ba1f8df5.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KLEW.png" group-title="Local",143   -  KLEW - Lewiston - Idaho
+http://newson-vsms.trafficmanager.net/KLEW_1578634036_6bd160a2025204e90eb307cdf0f671621e4da79846a4be5205b30ec5f9599086.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KEPR.png" group-title="Local",144   -  KEPR - Yakima/Pasco/Richland/Kennewick - Washington
+http://newson-vsms.trafficmanager.net/KEPR_1578634036_5a3c65dd948d84539943f0b9d90fcae52e2b8a6366ad765b2939fea04f9425e6.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KIMA.png" group-title="Local",145   -  KIMA - Yakima/Pasco/Richland/Kennewick - Washington
+http://newson-vsms.trafficmanager.net/KIMA_1578634036_41d69df404306a54534693ef0d7e9af5598a82455d0fc263d689c00753d2a876.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KVII.png" group-title="Local",146   -  KVII - Amarillo - Texas
+http://newson-vsms.trafficmanager.net/KVII_1578634036_61b418063b62a295886b86a001a1e58100d01884a5162d78b0ee1043c8aa5702.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KRNV.png" group-title="Local",147   -  KRNV - Reno - Nevada
+http://newson-vsms.trafficmanager.net/KRNV_1578634036_dbd8e046f58c5b09dda43c15ef28d4cb3e6f3954d3a54331c263c3a866c5d50d.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KHQA.png" group-title="Local",148   -  KHQA - Quincy - Illinois
+http://newson-vsms.trafficmanager.net/KHQA_1578634036_2e0400ecc34decaf85036754bf04c68e7266845c00171f382ee0238619b3ae40.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WPBN.png" group-title="Local",149   -  WPBN - Traverse City - Michigan
+http://newson-vsms.trafficmanager.net/WPBN_1578634036_fae34e18fd4fe2c6c5ce4c681e292948931e0750846ee22406d28c8b277c8140.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KFDM.png" group-title="Local",150   -  KFDM - Beaumont - Texas
+http://newson-vsms.trafficmanager.net/KFDM_1578634036_be9c68a3f913a425d8278c354ccd1b339e352b8fcce78820e583908258c8d6d9.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KBTV.png" group-title="Local",151   -  KBTV - Beaumont - Texas
+http://newson-vsms.trafficmanager.net/KBTV_1578634036_90319d048eb2b657b1f87c32769f8d7eb051a35e39ee10f5cb284f06b06fe970.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WTOV.png" group-title="Local",152   -  WTOV - Steubenville - Ohio
+http://newson-vsms.trafficmanager.net/WTOV_1578634036_a656230f9a14aa926d4d62fcd529c2a05445ef1e25116a6d6bab6612fd7dea04.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KRXI.png" group-title="Local",153   -  KRXI - Reno - Nevada
+http://newson-vsms.trafficmanager.net/KRXI_1578634036_9e9045d51d94a07eb941c10d4b62c7d48c98d8c815e97d88ca033002c2d86561.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KOAA.png" group-title="Local",154   -  KOAA - Colorado Springs - Colorado
+http://newson-vsms.trafficmanager.net/KOAA_1578634036_a63387b300597b85b381658ead7758c7f8bb5e20cd17b3d56844386e9720a72c.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/heritage/WWTV.png" group-title="Local",155   -  WWTV - Traverse City - Michigan
+http://newson-vsms.trafficmanager.net/WWTV_1578634036_677d1cb84c669a4e048bb6db8c464704671b13f167cfb096098d666e5c8fe165.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KATU_white.png" group-title="Local",156   -  KATU - Portland - Oregon
+http://newson-vsms.trafficmanager.net/KATU_1578634036_34a4b66f107cc023a78fc27a7d03d46b135fab9095477318abe066cf1ee3ae9b.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/KCTV.png" group-title="Local",157   -  KCTV - Kansas City - Missouri
+http://newson-vsms.trafficmanager.net/KCTV_1578634036_a7dbb6ad1b0cd1db0071f0ef0dee940ec992d49fcb0d461959ecd08a20a57dca.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/KPTV.png" group-title="Local",158   -  KPTV - Portland - Oregon
+http://newson-vsms.trafficmanager.net/KPTV_1578634036_4e3b61a1f4980c8b5c37d6253b202bbe01e3367bde6841f7761808d2609333cf.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/KVVU.png" group-title="Local",159   -  KVVU - Las Vegas - Nevada
+http://newson-vsms.trafficmanager.net/KVVU_1578634036_eac9318a3f54bf0a914de20b00e24ade65328be51398816d40419415fc80b382.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/WALA.png" group-title="Local",160   -  WALA - Mobile/Pensacola - Alabama
+http://newson-vsms.trafficmanager.net/WALA_1578634036_90da91964d2efaa7e4036de9ef8b494732505b9ba6cdd2951731ff5980f8e391.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/WFSB.png" group-title="Local",161   -  WFSB - Hartford/New Haven - Connecticut
+http://newson-vsms.trafficmanager.net/WFSB_1578634036_566aa61159bad273e5c3a037a4c227ee194565a9f8048c0f03cdaaf41ac1dd48.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/WGCL.png" group-title="Local",162   -  WGCL - Atlanta - Georgia
+http://newson-vsms.trafficmanager.net/WGCL_1578634036_fcc572f28dc81d131f113cd68b61227b114dd2541759fa1eea189c2a50899428.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/WHNS.png" group-title="Local",163   -  WHNS - Greenville/Spartanburg - South Carolina
+http://newson-vsms.trafficmanager.net/WHNS_1578634036_8946049bca828455ff08ab16eecf03af399427a88b9f060f97fd5ea4b7ead706.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/WNEM.png" group-title="Local",164   -  WNEM - Bay City/Saginaw/Flint - Michigan
+http://newson-vsms.trafficmanager.net/WNEM_1578634036_12d0d12fc1c617259f1938ce7e9b92831e61f634b05f0cdd403918578bae4c80.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/WMN.png" group-title="Local",165   -  WGGB/WSHM - Springfield-Holyoke - Massachusetts
+http://newson-vsms.trafficmanager.net/WSHM_1578634036_60331b06e8bcc7edadac3563f84412bf68e7c1f91c0305521c17ca376e183740.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/WSMV.png" group-title="Local",166   -  WSMV - Nashville - Tennessee
+http://newson-vsms.trafficmanager.net/WSMV_1578634036_f1f365b841889c44b7ff961bac8173d14085c600264ac8ff0d0bbc1d0b11737e.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/mckinnon/KUSI.png" group-title="Local",167   -  KUSI - San Diego - California
+http://newson-vsms.trafficmanager.net/KUSI_1578634036_d0fc0c3d744bf80ebf9c88b9db70e3f75f03a54682b0a860b8c5824c4503f1a9.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/fortmyers/WINK.png" group-title="Local",168   -  WINK - Fort Myers/Naples - Florida
+http://newson-vsms.trafficmanager.net/WINK_1578634036_fc5ab4b979a4ac1bf728e92287874fca418fd37c56f74e33e81ac4ff22d15469.m3u8?a=b&replacecodecs=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KAGS.png" group-title="Local",169   -  KAGS - Waco/Temple/Bryan - Texas
+http://newson-vsms.trafficmanager.net/KAGS_1578634036_4f628a19c824b58c624842e3e4a6faa6862e291bea6fcdaaa2737d045636cfd3.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KARE.png" group-title="Local",170   -  KARE - Minneapolis/St. Paul - Minnesota
+http://newson-vsms.trafficmanager.net/KARE_1578634036_b08996b38e4b6bf13f321a6f8a5eb676d60382f75845843aabf88e97028fb6f0.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KCEN.png" group-title="Local",171   -  KCEN - Waco/Temple/Bryan - Texas
+http://newson-vsms.trafficmanager.net/KCEN_1578634036_99f1ec38e3546cb5ba3dec17c512073ef328b69e20c816e5c86ffacea63d4b1a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KENS.png" group-title="Local",172   -  KENS - San Antonio - Texas
+http://newson-vsms.trafficmanager.net/KENS_1578634036_fa3a6d97f07d24d76f1d28936840a086551f6068d1a97dcfeb0a4dbbfa6a273c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KGW.png" group-title="Local",173   -  KGW - Portland - Oregon
+http://newson-vsms.trafficmanager.net/KGW_1578634036_f2ad2bf24fd04da05f551560e2aee98c2555f0d54bcb4c97d097a238d97c18c2.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KHOU.png" group-title="Local",174   -  KHOU - Houston - Texas
+http://newson-vsms.trafficmanager.net/KHOU_1578634036_d1cc355e7044e4085d367860ddc6c3b8fca1650632dd9ddf243d38d139ce9119.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KIDY.png" group-title="Local",175   -  KIDY - San Angelo - Texas
+http://newson-vsms.trafficmanager.net/KIDY_1578634036_6d00a620b4543c38044dca21f47bbfdb545286a6f8eae05482d1765421d2d4a8.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KING.png" group-title="Local",176   -  KING - Seattle/Tacoma - Washington
+http://newson-vsms.trafficmanager.net/KING_1578634036_64229ab5948fdd2f9ae067378e71a54f31af177e2dbe9d47e2db509d089636c5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KIII.png" group-title="Local",177   -  KIII - Corpus Christi - Texas
+http://newson-vsms.trafficmanager.net/KIII_1578634036_7c0a23187d38cc60f7dd78db4912ea19d543fe7db7ef557eb6c7d5f7c2702ae2.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KPNX.png" group-title="Local",178   -  KPNX - Phoenix - Arizona
+http://newson-vsms.trafficmanager.net/KPNX_1578634036_2ed0319bbd785b42432549ef3cf95216574c43fabd85d3477e2ab5f645fb843c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KREM.png" group-title="Local",179   -  KREM - Spokane - Washington
+http://newson-vsms.trafficmanager.net/KREM_1578634036_2ace552501bb0d3abb6614998e936843f2d701301c6307f517baf0aba761a1d3.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KSDK.png" group-title="Local",180   -  KSDK - St. Louis - Missouri
+http://newson-vsms.trafficmanager.net/KSDK_1578634036_788c16af2dc640bdea6c4f84a875660c73a2fc1776eddbffd81bd1f7b450ce76.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KTHV.png" group-title="Local",181   -  KTHV - Little Rock/Pine Bluff - Arkansas
+http://newson-vsms.trafficmanager.net/KTHV_1578634036_67bb03c212f6aaa97943955ce3cac0b7d0b93249612c2de6b0f6860b4787609c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KTVB.png" group-title="Local",182   -  KTVB - Boise - Idaho
+http://newson-vsms.trafficmanager.net/KTVB_1578634036_d305450cb9418837576e8c4f652dba1018c53e5602a91f1bc41bca24cf922c5c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KUSA.png" group-title="Local",183   -  KUSA - Denver - Colorado
+http://newson-vsms.trafficmanager.net/KUSA_1578634036_38994156d3d8f14e40fc440bd20b39585d5c24f94b80a7c5944e85591ac973cb.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KVUE.png" group-title="Local",184   -  KVUE - Austin - Texas
+http://newson-vsms.trafficmanager.net/KVUE_1578634036_6b36d071ee9fbda5a4e1071ed4867a5a7822f15f3264a2acd4d696e1309923bc.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KXTV.png" group-title="Local",185   -  KXTV - Sacramento/Stockton/Modesto - California
+http://newson-vsms.trafficmanager.net/KXTV_1578634036_1d183dcbe7ea4e06470054458bf16562f65ae170645013eb9fd5da78663bf8c3.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KXVA.png" group-title="Local",186   -  KXVA - Abilene/Sweetwater - Texas
+http://newson-vsms.trafficmanager.net/KXVA_1578634036_c23ddce9d74440c69345cc63666eb3f7f79e26c7524a6df31671832281d9461e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KYTX.png" group-title="Local",187   -  KYTX - Tyler/Longview - Texas
+http://newson-vsms.trafficmanager.net/KYTX_1578634036_4317871ffbdaa0dc12692ecd42da689a06a5482e7eb3984550a24977bdbfad94.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WBIR.png" group-title="Local",188   -  WBIR - Knoxville - Tennessee
+http://newson-vsms.trafficmanager.net/WBIR_1578634036_a8bbbe3107ea3da20e2ec0b70098bdf20164246b7174d77d273f8b42d1319e54.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WCNC.png" group-title="Local",189   -  WCNC - Charlotte - North Carolina
+http://newson-vsms.trafficmanager.net/WCNC_1578634036_161e0a5e1e70669d7b588d665457d32c5b1aed6b4935d57475e2086e15e41aa6.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WLBZWCSH.png" group-title="Local",190   -  WCSH - Portland/Auburn - Maine
+http://newson-vsms.trafficmanager.net/WCSH_1578634036_146d268b38f4c43994508873a851cedc9ae7be1e0d051678b9f199a8f6b42247.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WFMY.png" group-title="Local",191   -  WFMY - Greensboro/High Point/Winston Salem - North Carolina
+http://newson-vsms.trafficmanager.net/WFMY_1578634036_197705883d3048e24486f74bcf31d77d33fc4c5c2bf70605d2acdd8ef964467d.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WGRZ.png" group-title="Local",192   -  WGRZ - Buffalo - New York
+http://newson-vsms.trafficmanager.net/WGRZ_1578634036_bfda5292d8364b7215c2759c3c1086396b5fdebe29f940ab6c0cb2fcaa1fb616.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WHAS.png" group-title="Local",193   -  WHAS - Louisville - Kentucky
+http://newson-vsms.trafficmanager.net/WHAS_1578634036_56c90508f5a6b9c3bc078a4101e2cee4923c5e1d29625653ec01cea4903afbfd.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WKYC.png" group-title="Local",194   -  WKYC - Cleveland/Akron - Ohio
+http://newson-vsms.trafficmanager.net/WKYC_1578634036_39f488fb84f3c25d3988d34c230fae9d414d6f6375df26ff8f67ffcb9256eaac.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WLBZWCSH.png" group-title="Local",195   -  WLBZ - Bangor - Maine
+http://newson-vsms.trafficmanager.net/WLBZ_1578634036_ed5e94e33c1ab3a440f742f1dfb1ad13cd09766e2666ab830641ec64d215aefa.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WLTX.png" group-title="Local",196   -  WLTX - Columbia - South Carolina
+http://newson-vsms.trafficmanager.net/WLTX_1578634036_52914c239c0f5e9fa8b91ae3204127fb025b67566de672f171535a2263565184.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WMAZ.png" group-title="Local",197   -  WMAZ - Macon - Georgia
+http://newson-vsms.trafficmanager.net/WMAZ_1578634036_ed4dacacf03fbf877d2d94a5178a50c771ce55528b9064eab24aa205a6ff9013.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WTLV.png" group-title="Local",198   -  WTLV - Jacksonville - Florida
+http://newson-vsms.trafficmanager.net/WTLV_1578634036_1be4d6ede8340d046edde62a890a01b36d3bac981b56d02c721957139261c8a3.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WTSP.png" group-title="Local",199   -  WTSP - Tampa/St. Petersburg/Sarasota - Florida
+http://newson-vsms.trafficmanager.net/WTSP_1578634036_9d2f80524aaa7f372233fc133306bde588aabf8d5025d690e4e017f03a23f293.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WVEC.png" group-title="Local",200   -  WVEC - Norfolk/Portsmouth/Newport News - Virginia
+http://newson-vsms.trafficmanager.net/WVEC_1578634036_8de7253ef9ba032f47d10c12c86bee381a85260c2a7490807c0b72978e90a839.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WWL.png" group-title="Local",201   -  WWL - New Orleans - Louisiana
+http://newson-vsms.trafficmanager.net/WWL_1578634036_4582c1c15e672a9a5dbdda2faac5b26cd7cd50cc34ec873a3a3ac64570d21400.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WXIA.png" group-title="Local",202   -  WXIA - Atlanta - Georgia
+http://newson-vsms.trafficmanager.net/WXIA_1578634036_6936ee772d557e4fc11b35574ae2df18adb6195ada13b34b1921a5380ebc0269.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/WZZM.png" group-title="Local",203   -  WZZM - Grand Rapids/Kalamazoo/Battle Creek - Michigan
+http://newson-vsms.trafficmanager.net/WZZM_1578634036_387efbf136cbda9fa3d61d2b0e32f9cbdb7e396475a8c16e78af210291d19676.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KRIS.png" group-title="Local",204   -  KRIS - Corpus Christi - Texas
+http://newson-vsms.trafficmanager.net/KRIS_1578634036_4d6fb1bec183a7c8d61387b6531bb1af32d52c13047005d9a4d3571d0adf23c1.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KATC.png" group-title="Local",205   -  KATC - Lafayette - Louisiana
+http://newson-vsms.trafficmanager.net/KATC_1578634036_73f7fef5766d692a13aa228ae9a80c34cccb76605a3249f8ecd59fc2b7943ff1.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KBZK.png" group-title="Local",206   -  KBZK - Bozeman - Montana
+http://newson-vsms.trafficmanager.net/KBZK_1578634036_89a1ab9f851295d3716374ef32697d657cff917de74169b965981241c04b54f6.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KPAX.png" group-title="Local",207   -  KPAX - Missoula - Montana
+http://newson-vsms.trafficmanager.net/KPAX_1578634036_1eba99c1964dc758d722121a9c65aa7f815f8cbf4a78e8be7bc9f9b5b2039fba.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KRTV.png" group-title="Local",208   -  KRTV - Great Falls - Montana
+http://newson-vsms.trafficmanager.net/KRTV_1578634036_27b6cf3e15fa8002a59db6adcd4c0a81621fd4ddc3d214cd293665d9145765eb.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KSBY.png" group-title="Local",209   -  KSBY - San Luis Obispo - California
+http://newson-vsms.trafficmanager.net/KSBY_1578634036_1c78ca21378446b616e0c4e10d61873e3c430184436402aa642747956076100a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KTVH.png" group-title="Local",210   -  KTVH - Helena - Montana
+http://newson-vsms.trafficmanager.net/KTVH_1578634037_d5df305e18c195b0b59926bb80280c732871df2cd80a119076c030b7b9b7c8a9.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KTVQ.png" group-title="Local",211   -  KTVQ - Billings - Montana
+http://newson-vsms.trafficmanager.net/KTVQ_1578634037_33480c5e13aef0e34b68d539c40cfe80a959d61ede6538b98054aa17e99ee994.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v4/NewsON.png" group-title="Local",212   -  KVOA - Tucson - Arizona
+https://content.uplynk.com/561c773c80194326bf35fdf26a368987.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KXLF.png" group-title="Local",213   -  KXLF - Butte - Montana
+http://newson-vsms.trafficmanager.net/KXLF_1578634037_db2446faad3fe2cdfca5b761a10e780a7735efc5c39d045fb7c5633bce91b49d.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/KZTV.png" group-title="Local",214   -  KZTV - Corpus Christi - Texas
+http://newson-vsms.trafficmanager.net/KZTV_1578634037_b90e513a9a442ea411f1ca67000edff1a4683330586aaf5f26b2ae790d1941c6.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/cordillera/WLEX.png" group-title="Local",215   -  WLEX - Lexington - Kentucky
+http://newson-vsms.trafficmanager.net/WLEX_1578634037_340c1fdd171706fadda33b102555fc5ea6ceb4dc02737fb6095d359a33f41fbf.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/tegna/KBMT.png" group-title="Local",216   -  KBMT - Beaumont - Texas
+http://newson-vsms.trafficmanager.net/KBMT_1578634037_7224f27fbd4a9e4d78c244ec6201b619b7f21e0817df0cb54f9d36ce24bf9172.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KTVO.png" group-title="Local",217   -  KTVO - Kirksville - Missouri
+http://newson-vsms.trafficmanager.net/KTVO_1578634037_388060a92d3901d7a45a360c6da62343c22a378138a2991883d83672f94b1d1c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KBFX.png" group-title="Local",218   -  KBFX - Bakersfield - California
+http://newson-vsms.trafficmanager.net/KBFX_1578634037_99b1a2476e884993d4254e9c2f4b93100d7fcb9c3b645896d9bfe2228c62bbb5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/meredith/KPHO.png" group-title="Local",219   -  KPHO - Phoenix - Arizona
+http://newson-vsms.trafficmanager.net/KPHO_1578634037_b4ee1ea3db823627efac64b644047a8d861ae013cbf6f1c50ef46720c653f299.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KRCG.png" group-title="Local",220   -  KRCG - Columbia Jefferson City - Missouri
+http://newson-vsms.trafficmanager.net/KRCG_1578634037_0745eebc00fb6dfb212d4b313309d971634d337359819461aacc77a6d7d8e1a1.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WKYT.png" group-title="Local",221   -  WKYT - Lexington - Kentucky
+http://newson-vsms.trafficmanager.net/WKYT_1578634037_5db11eba09ccc2101cb247a9f5b2211d5160043be3f859671635e41b1ee07f11.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KWTX.png" group-title="Local",222   -  KWTX - Waco - Texas
+http://newson-vsms.trafficmanager.net/KWTX_1578634037_7bdfb0dc9c6c8a62fa1e3e2bd7a1456e71ec2b0fc553595132720c4c20736a97.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KOLN.png" group-title="Local",223   -  KOLN - Lincoln - Nebraska
+http://newson-vsms.trafficmanager.net/KOLN_1578634037_4ed2f324b3e9e1c0b5a080231c6f49353814e8bcd5bf1eb09ae39aa68536f4ff.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KMEG.png" group-title="Local",224   -  KMEG/KPTH - Sioux City - Iowa
+http://newson-vsms.trafficmanager.net/KMEG_1578634037_b635fd820fbbd405a8144337bfcd748c94d190e88c4beb4dd9343f498cd7b963.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WCIV.png" group-title="Local",225   -  WCIV - Charleston - South Carolina
+http://newson-vsms.trafficmanager.net/WCIV_1578634037_9b4e6fdf5b2e9bb51ece98587c514da1a802ba9302d34bd3219b7c26ddfcb79e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WCYB.png" group-title="Local",226   -  WCYB - Tri Cities - Tennessee
+http://newson-vsms.trafficmanager.net/WCYB_1578634037_710ce4333cc031efd3f01a5f7373f6cde484c4bdb7501269cf500d5e2dbd0f21.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KALB.png" group-title="Local",227   -  KALB - Alexandria - Louisiana
+http://newson-vsms.trafficmanager.net/KALB_1578634037_c06c08f3c27a4f9be6894f80bd5f4b9f68f1632984209e80feb59cf322ab0eb5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KBTX.png" group-title="Local",228   -  KBTX - Bryan - Texas
+http://newson-vsms.trafficmanager.net/KBTX_1578634037_7ea2bd78f77db889d8c578a2b256b46905a726eca2d396fd9e4cfc2514f263e0.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KCRG.png" group-title="Local",229   -  KCRG - Cedar Rapids - Iowa
+http://newson-vsms.trafficmanager.net/KCRG_1578634037_3eed67d7f1a1454d1fb91182e92344118d738ec2f5bf628b30d3239894653614.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KCWY.png" group-title="Local",230   -  KCWY - Casper - Wyoming
+http://newson-vsms.trafficmanager.net/KCWY_1578634037_7aeed488451f7969927f6e7b936d6cb9136803ea5f7ec8ad221a1b0886bf6e34.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KEVN.png" group-title="Local",231   -  KEVN - Rapid City - South Dakota
+http://newson-vsms.trafficmanager.net/KEVN_1578634037_bea435af9fc776f82d490afb729ebedbe44b3ab8e08955b008b1e13f43e73117.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KFYR.png" group-title="Local",232   -  KFYR - Bismarck - North Dakota
+http://newson-vsms.trafficmanager.net/KFYR_1578634037_d3d1e44620416cc97046ff9655fc033c0b14f1bcd6433eee3046a39e22956fb6.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KGNS.png" group-title="Local",233   -  KGNS - Laredo - Texas
+http://newson-vsms.trafficmanager.net/KGNS_1578634037_1c0fda226b8426e17eb09539d4918b92bb13d03bdb10edc64f94b88429088318.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KGWN.png" group-title="Local",234   -  KGWN - Cheyenne - Wyoming
+http://newson-vsms.trafficmanager.net/KGWN_1578634037_d68adc9d797023ef9521b2823c8a916c61221f837c371ae90bacc35ea65433c4.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KJCT.png" group-title="Local",235   -  KJCT - Grand Junction - Colorado
+http://newson-vsms.trafficmanager.net/KJCT_1578634037_1c1bc116a595afff9a8b3b543d177128cf48d091916b4a8f2e9d2bd1d651028a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KKCO.png" group-title="Local",236   -  KKCO - Grand Junction - Colorado
+http://newson-vsms.trafficmanager.net/KKCO_1578634037_77c3fb24316328d6e93587540a2a52156d35b1032d5c61dd00be0a05d5191e33.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KKTV.png" group-title="Local",237   -  KKTV - Colorado Springs - Colorado
+http://newson-vsms.trafficmanager.net/KKTV_1578634037_a5e6dbb097eed857de372f010c30fabf8577fd12fd143a919a1544f3a1a0947a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KMVT.png" group-title="Local",238   -  KMVT - Twin Falls - Idaho
+http://newson-vsms.trafficmanager.net/KMVT_1578634037_8d11b9948e7c8de961d962b5322f0b945f97ad70594cde7d2e68e8c56032290e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KNOE.png" group-title="Local",239   -  KNOE - Monroe - Louisiana
+http://newson-vsms.trafficmanager.net/KNOE_1578634037_70ce6bfafa1d318d4052e12a2230181c12c58f998b0ecb3b62e4852277b49d27.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KNOP.png" group-title="Local",240   -  KNOP - North Platte - Nebraska
+http://newson-vsms.trafficmanager.net/KNOP_1578634037_4b51d2c4e9993018959f13fb73d64d5e336ea3a4e9bb421393580e497c2f8215.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KOLO.png" group-title="Local",241   -  KOLO - Reno - Nevada
+http://newson-vsms.trafficmanager.net/KOLO_1578634037_3ffe9bfae415476fdc34007e0a2a0144bebc1d25cbbb4547fce7f7959fb6a136.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KOSA.png" group-title="Local",242   -  KOSA - Odessa - Texas
+http://newson-vsms.trafficmanager.net/KOSA_1578634037_73c6f1e7384984bca9c0707ff05b48bf0afd1b32fe561f363f8f9e79b3eda3f7.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KOTA.png" group-title="Local",243   -  KOTA - Rapid City - South Dakota
+http://newson-vsms.trafficmanager.net/KOTA_1578634037_eb40d09710a5a1bae5f168624faf204fa6df6b1b7b62dc0842e9e7e257737db4.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KSFY.png" group-title="Local",244   -  KSFY - Sioux Falls - South Dakota
+http://newson-vsms.trafficmanager.net/KSFY_1578634037_7e83376c48fee77e67d3e17a9604b80b193bc10767a22d1d93dae168e00417d5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KSNB.png" group-title="Local",245   -  KSNB - Lincoln - Nebraska
+http://newson-vsms.trafficmanager.net/KSNB_1578634037_5b8c5b6cbe0db0f128764c254439ece2b69e30bca330c4ce0d4e9a29b26bdf0c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KSPR.png" group-title="Local",246   -  KSPR - Springfield - Missouri
+http://newson-vsms.trafficmanager.net/KSPR_1578634037_bab90fcf545d15ace44ca0b2dcd3563b9c88355d10661c1b93a25b00136ef3e5.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KTUU.png" group-title="Local",247   -  KTUU - Anchorage - Alaska
+http://newson-vsms.trafficmanager.net/KTUU_1578634037_3042d28b4faecdd7a6a00d0daba178eacd605d8967688be47234e4b5f482d56a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KTVF.png" group-title="Local",248   -  KTVF - Fairbanks - Alaska
+http://newson-vsms.trafficmanager.net/KTVF_1578634037_94f3f7141b52d4d6b3979b147ec38613d7f1e304b8cca7215abaa703cc4b138e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KVLY.png" group-title="Local",249   -  KVLY - Fargo - North Dakota
+http://newson-vsms.trafficmanager.net/KVLY_1578634037_0ef09adee1d460c20594e475138a193e0754da52027f43f566937695e411323a.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KWCH.png" group-title="Local",250   -  KWCH - Wichita - Kansas
+http://newson-vsms.trafficmanager.net/KWCH_1578634037_3899be7cdac75a5b81c8a2716f88b50a8d81c721d86bd2de68ce4821ec077cbc.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KWQC.png" group-title="Local",251   -  KWQC - Davenport - Iowa
+http://newson-vsms.trafficmanager.net/KWQC_1578634037_3440789e37ce757dd083772ee8b9b2abfa67fba0650d8e71dea30bf323578efe.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KXII.png" group-title="Local",252   -  KXII - Sherman - Texas
+http://newson-vsms.trafficmanager.net/KXII_1578634037_0d481f36ef26afdc35893ecb6d34841b06af2f0abfe641a5197c196684c1ba76.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/KYTV.png" group-title="Local",253   -  KYTV - Springfield - Missouri
+http://newson-vsms.trafficmanager.net/KYTV_1578634037_c416d5a32ffc2fac3cd76e0851acf90778597eb86399bd022fd6e9c177aba0e4.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WABI.png" group-title="Local",254   -  WABI - Bangor - Maine
+http://newson-vsms.trafficmanager.net/WABI_1578634037_bda5b30704bbb2b106145a75fda69ebf1a9735d6deca2536b1f9f38e9d34d61e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WAGM.png" group-title="Local",255   -  WAGM - Presque Isle - Maine
+http://newson-vsms.trafficmanager.net/WAGM_1578634037_3ba6909b255cee42e74f6cb30cfc09c35312b5877a84a39f66e4e640a31f799f.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WAGT.png" group-title="Local",256   -  WAGT - Augusta - Georgia
+http://newson-vsms.trafficmanager.net/WAGT_1578634037_b5cc30389c10ad656208c49fb6b12297c9b79b611e7ace373f7ec1c8722921da.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WBAY.png" group-title="Local",257   -  WBAY - Green Bay/Appleton - Wisconsin
+http://newson-vsms.trafficmanager.net/WBAY_1578634037_24f1797742a43303e512f4045a2999cfed5803788bc7e4a6697798089861c794.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WBKO.png" group-title="Local",258   -  WBKO - Bowling Green - Kentucky
+http://newson-vsms.trafficmanager.net/WBKO_1578634037_c68e17c121c1764d38501a1eff51797fa3469f6501090d776f6a044335bff6ed.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WCAX.png" group-title="Local",259   -  WCAX - Burlington - Vermont
+http://newson-vsms.trafficmanager.net/WCAX_1578634037_65af3d134ec5f529d6c112ed203e6afc9c9b2ff40223d11848978218cdbfd269.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WCJB.png" group-title="Local",260   -  WCJB - Gainesville - Florida
+http://newson-vsms.trafficmanager.net/WCJB_1578634037_98791d7366d5e443b69cb2f3fce366ec1ab6c0cbeb0f6311d33e15e3d85eec34.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WCTV.png" group-title="Local",261   -  WCTV - Tallahassee - Florida
+http://newson-vsms.trafficmanager.net/WCTV_1578634037_b8ef8a0cca7f63439f77080a3d75882bc281b5adf5c52b8ffd99327d4967b956.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WDBJ.png" group-title="Local",262   -  WDBJ - Roanoke - Virginia
+http://newson-vsms.trafficmanager.net/WDBJ_1578634037_690c16bcc334c01e7feb03d6e79ae84089ea572080e7ca8d1e8f9c400cbe68a8.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WDTV.png" group-title="Local",263   -  WDTV - Bridgeport - West Virginia
+http://newson-vsms.trafficmanager.net/WDTV_1578634037_45f27dd1995c7572d43eca2aa2718f1a0113512a47eeb332e2d8352bcd08fb28.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WEAU.png" group-title="Local",264   -  WEAU - Eau Claire - Wisconsin
+http://newson-vsms.trafficmanager.net/WEAU_1578634037_d5f079cbae208c35bc0ab9ee389314f30631c1587e4df78cd8b3ee90f4905683.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WHSV.png" group-title="Local",265   -  WHSV - Harrisonburg - Virginia
+http://newson-vsms.trafficmanager.net/WHSV_1578634037_763a0051ac038aca109dd3ace016e6290fdc92add3185998b0b2c524d27132b9.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WIBW.png" group-title="Local",266   -  WIBW - Topeka - Kansas
+http://newson-vsms.trafficmanager.net/WIBW_1578634037_71a6bf0bc20ba8cea32cc268098ebc67a3c15010fa7b682ab22de90432ff81ae.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WIFR.png" group-title="Local",267   -  WIFR - Rockford - Illinois
+http://newson-vsms.trafficmanager.net/WIFR_1578634037_0fb26e9a9f7655bed24265ca438d9275428ef131285327a52e603797fc0a409e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WILX.png" group-title="Local",268   -  WILX - Lansing - Michigan
+http://newson-vsms.trafficmanager.net/WILX_1578634037_b3cfe4e02898b57c951d5861de8cc6d680820bff735912e83cb5af646a85ff44.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WITN.png" group-title="Local",269   -  WITN - Greenville - North Carolina
+http://newson-vsms.trafficmanager.net/WITN_1578634037_5fcaf6a8f33b3645dbcf95ac964f6a38f651114ee8a53fa94fae6d3485a1ed18.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WJHG.png" group-title="Local",270   -  WJHG - Panama City - Florida
+http://newson-vsms.trafficmanager.net/WJHG_1578634037_540e014bbf236b7f895db62151a3b145286e83ad03a54343e421f03125dd40f4.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WJRT.png" group-title="Local",271   -  WJRT - Flint - Michigan
+http://newson-vsms.trafficmanager.net/WJRT_1578634037_3f7658a89837cb84735671e2acf6ec68b9e350886e111e30ece0d09060e88db0.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WLUC.png" group-title="Local",272   -  WLUC - Negaunee - Michigan
+http://newson-vsms.trafficmanager.net/WLUC_1578634037_77e55a04027622b5a8db24c6442876081365f2ba71e807517227f221322f065c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WMTV.png" group-title="Local",273   -  WMTV - Madison - Wisconsin
+http://newson-vsms.trafficmanager.net/WMTV_1578634037_0ef9f543fa01468b0af5be75715afaf261e1bf8a77e459f64e00e858ddccfe88.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WNDU.png" group-title="Local",274   -  WNDU - South Bend - Indiana
+http://newson-vsms.trafficmanager.net/WNDU_1578634037_4c1ebf3f30ed6b810fe2c95bea00d53a27f03f6903f7c2514f55fea50118de9e.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WOWT.png" group-title="Local",275   -  WOWT - Omaha - Nebraska
+http://newson-vsms.trafficmanager.net/WOWT_1578634037_e8c32eebecb82bcd634631306e83886d205708d33c3e7a48bb27d0655d58f676.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WRDW.png" group-title="Local",276   -  WRDW - Augusta - Georgia
+http://newson-vsms.trafficmanager.net/WRDW_1578634037_ac7dd9dc3c7cf7785b1abbb81cd57d58bead8ef108c4f803f251eab3bf4c3e20.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WSAW.png" group-title="Local",277   -  WSAW - Wausau - Wisconsin
+http://newson-vsms.trafficmanager.net/WSAW_1578634037_8ebfeb46b9b5cd8661071526fc62c529a26bb80d2edbb2ede6fcf8b95a6fc3bd.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WSAZ.png" group-title="Local",278   -  WSAZ - Huntington - West Virginia
+http://newson-vsms.trafficmanager.net/WSAZ_1578634037_362e9bacec9526a6d6c68fd2d00b49e5af6acb607591b8984a3ec0738a03a36f.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WTAP.png" group-title="Local",279   -  WTAP - Parkersburg - West Virginia
+http://newson-vsms.trafficmanager.net/WTAP_1578634037_44bcf3136ab7eb701c32f92c8879d8635c7f77c6e4680925438ab43a8f495af0.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WTOK.png" group-title="Local",280   -  WTOK - Meridian - Mississippi
+http://newson-vsms.trafficmanager.net/WTOK_1578634037_034c3693b87706c3cef1508d258a7fc749d9c0851095bff5aef69f1430fff336.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WTVG.png" group-title="Local",281   -  WTVG - Toledo - Ohio
+http://newson-vsms.trafficmanager.net/WTVG_1578634037_a23d25133f973c9f93402f7db7781252f7308a1ad6aa68626a4f4cfc808da0f9.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WTVY.png" group-title="Local",282   -  WTVY - Dothan - Alabama
+http://newson-vsms.trafficmanager.net/WTVY_1578634037_3d8eecbfad61b387aeaed2a00296f425f0ec590f7a02e3a83b9440188f3e1445.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WVLT.png" group-title="Local",283   -  WVLT - Knoxville - Tennessee
+http://newson-vsms.trafficmanager.net/WVLT_1578634037_96c205c4f08cdc053149a5eeb5231bebbea3b80317727fbe82ae2fcf72eab2ce.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/gray/WYMT.png" group-title="Local",284   -  WYMT - Hazard - Kentucky
+http://newson-vsms.trafficmanager.net/WYMT_1578634037_11ada826d3695b1117539f17544460fbcf42581afcd5447cc03c2c12e7759f0c.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KBOI.png" group-title="Local",285   -  KBOI - Boise - Idaho
+http://newson-vsms.trafficmanager.net/KBOI_1578634037_02694382c4c94ef747737a400413e14b62397ab0a2d3a3d247729d6eef5429cb.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/KTXS.png" group-title="Local",286   -  KTXS - Abilene - Texas
+http://newson-vsms.trafficmanager.net/KTXS_1578634037_b7c3ba491c073e96d35cdd1b10337720ef723e3b4704ac88289c74e89b2372b3.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WACH.png" group-title="Local",287   -  WACH - Columbia - South Carolina
+http://newson-vsms.trafficmanager.net/WACH_1578634037_14180af65bb877690f3ea25c9e04284a7fa00b6a66158b0fe28ed5c74a75ee86.m3u8?a=b
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.newson.akm.cdn.vinsontv.com/icons/v3/sinclair/WUHF.png" group-title="Local",288   -  WUHF - Rochester - New York
+http://newson-vsms.trafficmanager.net/WUHF_1578634037_ddfe6c665626ab53e930475e2a06328af43101eac37377a3b741745ab3a1ed80.m3u8?a=b
+
