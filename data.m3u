@@ -5,6 +5,9 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="Cable Networks",I'm still working on it
 
+#EXTINF:-1 tvg-logo="" group-title="Cable Networks",Ghost Rider
+https://redirector.googlevideo.com/videoplayback?expire=1580008008&ei=KOYsXsvcD8bqW8mBisgE&ip=2607:5300:60:84b9::&id=8029dd25d1a4b4d2&itag=22&source=picasa&begin=0&requiressl=yes&mm=30&mn=sn-p5qlsndd&ms=nxu&mv=m&mvi=0&pl=32&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7405.493&lmt=1550383009476850&mt=1580000723&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgKPWWj1cBqTxmI8a-NHDQOmPXWs9yLE0hOiLjtRyLhTcCIFVMz2CjdVAMXYz7brAcmrNBJEg5ui9jprqm_eOFTq46&lsparams=mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgBrTaS4hoo-w4SqfuqHTDAUTIYg95Ns6xL_vq7ZU0TywCIQDEhE9A3dmIZWGyiz12RZO1ZuCBI5rO-U-SsoLFSR3y-g==
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="Cable Networks",Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
